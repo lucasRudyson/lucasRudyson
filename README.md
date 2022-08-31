@@ -1,7 +1,7 @@
-<img src="giphy.gif" width="325px" align="right"/>
+<img src="giphy.gif" width="300px" align="right"/>
 
 #  🤓 Seja bem vindos. Fique à vontade!!! 
-Olá aqui você vai encontrar alguns tipos de projetos feitos por meio de desafios e projetos pessoais
+Olá aqui você vai encontrar alguns tipos de projetos feitos por meio de desafios e projetos pessoais.
 
 - 🧑‍💻 estudando Front-End
 - 🤓 Cursando Ciência da computação
