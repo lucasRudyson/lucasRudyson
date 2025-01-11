@@ -18,7 +18,7 @@
 ---
 
 ### GitHub Stats  
-![snake gif](https://github.com/lucasRudyson/lucasRudyson/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/lucasRudyson/lucasRudyson/blob/output/github-contribution-grid-snake.git)
 
 ---
 
