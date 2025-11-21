@@ -8,7 +8,7 @@
 
 ---
 
-## ⚙️ Tools and Technologies  
+## Tools and Technologies  
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="90" height="90" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="90" height="90" />
@@ -18,7 +18,7 @@
 
 ---
 
-## 📈 GitHub Stats  
+## GitHub Stats  
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasrudyson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrudyson&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -26,7 +26,7 @@
 
 ---
 
-## 📫 Contact Me  
+## Contact Me  
 <div>
   <a href="https://instagram.com/lucas.rudyson" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -41,7 +41,7 @@
 
 ---
 
-## 🇧🇷 Sobre mim  
+## Sobre mim  
 Sou um desenvolvedor com foco em **Backend e Sistemas Embarcados**, apaixonado por transformar ideias em soluções práticas.  
 Gosto de unir tecnologia e propósito — buscando sempre aprender e evoluir como profissional e pessoa.
 
